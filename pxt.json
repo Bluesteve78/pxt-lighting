@@ -1,13 +1,13 @@
 {
   "name": "pxt-lighting",
-  "description": "A lighting system for MakeCode Arcade (shadows, brightness, light radius, etc.)",
+  "description": "A lighting system for MakeCode Arcade.",
   "version": "0.0.1",
   "dependencies": {
     "core": "*",
     "game": "*"
   },
   "files": [
-    "lighting.ts",
+    "main.ts",
     "README.md"
   ],
   "testFiles": [],
