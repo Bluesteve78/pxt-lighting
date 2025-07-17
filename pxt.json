@@ -9,6 +9,7 @@
   "files": [
     "main.ts",
     "README.md"
+    "pxt.json"
   ],
   "testFiles": [],
   "public": true,
